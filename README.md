@@ -1,4 +1,4 @@
-# Kanbam_Js
+# Kanban_Js
 
 Projeto de um **Kanban de Tarefas** desenvolvido com **HTML, CSS e JavaScript**, com o objetivo de organizar atividades de forma visual, simples e prática.
 
