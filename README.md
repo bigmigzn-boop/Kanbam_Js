@@ -4,6 +4,9 @@ Projeto de um **Kanban de Tarefas** desenvolvido com **HTML, CSS e JavaScript**,
 
 ## Sobre o projeto
 
+<img width="1399" height="727" alt="Captura de tela 2026-03-28 000107" src="https://github.com/user-attachments/assets/16645fa8-d7ab-4494-b71d-0062ad38e77b" />
+
+
 O **Kanban** é um método de organização visual usado para acompanhar o fluxo de tarefas por etapas. Ele ajuda a entender com clareza:
 
 - o que precisa ser feito
